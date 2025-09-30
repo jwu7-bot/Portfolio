@@ -1,4 +1,4 @@
-githubpages: https://jwu7-bot.github.io/Portfolio/
+## Github Pages: https://jwu7-bot.github.io/Portfolio/
 
 # Portfolio Website
 
